@@ -1,0 +1,54 @@
+https://codepen.io/
+Visit the above website to check how it will look
+
+<h1>Topic</h1>
+
+- heading html mdn
+- w3 schools html headings
+- devdocs.io 
+web.archive.org to check how the website looked like
+-colorhunt.co for good colors for background
+
+<br> to break the html file self-closing tag
+
+<hr> horizontal line
+
+<hr size="3" noshade> this is an attribue
+
+<!-- we use this for commenting -->
+
+Check 
+
+<!-- ! type 느낌표 to make boilerplate-->
+
+www.fileformat.info to check to available character type utf-8 
+
+unicode-table.com 
+
+developer.mozilla.org
+
+check the meta element
+
+<em></em>, <strong> </strong>
+
+bullet list html mdn
+    <ul> </ul>
+
+image
+    <img src>
+
+<table> 
+    <tr>
+        <td>Angela</td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>Angela</td>
+        <td>12</td>  
+    </tr>
+</table>
+
+<form>
+    <label>Name:</label>
+    <input type="text">
+</form>

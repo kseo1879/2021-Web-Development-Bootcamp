@@ -1,0 +1,15 @@
+How to debug the code locally
+
+Inspect - Console then it will tell you something that it cannot find.
+
+Priority = Inline -> Inside internal CSS -> External CSS They have their priority
+
+CSS Syntax 
+    - selector{propertiy:value;}
+        who?    what?     how?
+    - h1 {color:red;}
+    it is important to label them in alphabetical order to find them easily lateron.
+
+    CSS reference on MDN document
+
+    Class vs ID = ID must be only one. However class can be multiple of them. 

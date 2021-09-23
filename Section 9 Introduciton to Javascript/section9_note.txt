@@ -1,0 +1,3 @@
+View, Javascrip Console
+
+Go to sources, fine snippets and run the code
