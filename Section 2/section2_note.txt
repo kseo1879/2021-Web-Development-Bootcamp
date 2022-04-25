@@ -29,11 +29,15 @@ developer.mozilla.org
 
 check the meta element
 
-<em></em>, <strong> </strong>
+<em></em>, <strong> </strong> -> makes italize
+<p>This makes a paragraph</p>
 
 bullet list html mdn
     <ul> </ul>
-
+Ordered list
+    <ol>
+    <li>foo</li>
+    </ol>
 image
     <img src>
 
